@@ -1,0 +1,15 @@
+{
+  "name": "Plastic Welding & Fabrication Specialist",
+  "short_name": "PW&F Specialist",
+  "description": "HDPE and PP welding, pipe installation and fabrication by Lloyd Mthembu, Johannesburg.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#16171a",
+  "theme_color": "#16171a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
